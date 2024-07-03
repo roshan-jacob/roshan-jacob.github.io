@@ -6,7 +6,7 @@
     "email": "rjacobma@asu.edu",
     "phone": "(602) 388-6894",
     "url": "https://roshan-jacob.github.io",
-    "summary": "Motivated Computer Science graduate student with specialization in Big Data and Artificial Intelligence. Expected Graduation: May 2024. Has 1+ year experience in Software Development for various MNCs. Experienced in designing systems from scratch with minimal tech debt. Published 2 papers one in the domain of mobile applications for auditory training and the other in Natural Language Processing. Looking for Co-Op / Full Time opportunities.",
+    "summary": "Software Engineer with over 1 year of experience delivering enterprise scalable applications. Proven expertise in creating critical distributed systems such as a trading platform leveraging React, Redux, and Spring Boot, and a highly scalable search engine integrating Elasticsearch Kibana stack with FastAPI. Notable achievements include automating reporting times from hours to milliseconds and implementing CI/CD pipelines as a DevOps Engineer. Looking to leverage development expertise in feature design, implementation, and optimization to meet user requirements and improve product performance",
     "location": {
       "address": "1255 University Dr",
       "postalCode": "AZ 85288",
@@ -18,7 +18,7 @@
       {
         "network": "LinkedIn",
         "username": "roshan1999",
-        "url": "https://linkedin.com/roshan1999"
+        "url": "https://linkedin.com/in/roshan1999"
       },
       {
         "network": "Github",
@@ -29,16 +29,28 @@
   },
   "work": [
     {
-      "name": "Lumen Technology, Tempe, AZ, USA",
-      "position": "Development / Operations Engineer Intern",
+      "name": "Lumen Technology, Remote, USA",
+      "position": "Software Engineer",
       "url": "https://lumen.com",
-      "startDate": "2023-06-02",
-      "endDate": "2023-08-11",
+      "startDate": "2024-05-27",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Instituted APIs to automate 25% of reporting outage workflows utilizing Spring, UIPath, and Microsoft Graph API.",
-        "Utilized Spring Boot services and JavaServer Pages to enable access management of 20+ operation API endpoints.",
-        "Enhanced authentication and authorization of a portal serving 1000+ employees using Spring Security and JSON Web Tokens."
+        "Engineered a resilient, Elasticsearch Kibana system integrated with an asynchronous FastAPI server and React UI to search across MongoDB documents, Swagger pages, MAL entries and network workflows, significantly outperforming initial response time targets.",
+        "Implemented a highly distributed search engine with Docker and leveraging asynchronous programming and advanced storage techniques to maintain sub-5ms response time across over 10k documents.",
+      ]
+    },
+    {
+      "name": "Lumen Technology, Tempe, AZ, USA",
+      "position": "DevOps Engineer Intern",
+      "url": "https://lumen.com",
+      "startDate": "2023-06-02",
+      "endDate": "2024-05-04",
+      "summary": "",
+      "highlights": [
+        "Enhanced API gateway portal's security by implementing Access Control Lists, JWT authentication, and Role-Based Authorization using Spring Security framework, improving overall system security and aligning with established design practices.",
+        "Extended portal functionalities to include LDAP integration, automated admin approval for access requests leveraging Spring Boot, Spring Mail and Java Server Pages (JSP), reducing manual approvals by 60%. This contributed to breaking down larger work items into smaller work items effectively.",
+        "Automated reporting of network service outages and changes to clients by developing APIs in Spring Boot, reducing manual reporting time from 1-2 hours to just 400ms per update, showcasing strengths in building services at scale and debugging."
       ]
     },
     {
@@ -53,7 +65,7 @@
         "Improved application efficiency by 75% using Redux Thunk middleware with Axios for handling asynchronous actions.",
         "Spearheaded integration of Hashicorp vault for secure database connection serving 45+ microservice architectures.",
         "Leveraged Java Persistence API specifications in Spring for filtering, sorting, and pagination of 1M+ records in less than 250ms.",
-        "Automated clients’ investment reports by integrating BIRT in Spring supporting 50+ architectures."
+        "Integrated Hashicorp vault with 30+ microservice architectures for DB connectivity, improving security and efficiency."
       ]
     },
     {
@@ -115,8 +127,8 @@
         "Knowledge Representation and Reasoning",
         "Data Mining",
         "Semantic Web Mining",
-        "Quantum Computing",
-        "Data Processing at Scale"
+        "Data Processing at Scale",
+        "Cloud Computing"
       ]
     },
     {
